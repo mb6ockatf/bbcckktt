@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+    color: white;
+    padding: 0;
+    font-size: medium;
+    margin: auto;
+    padding: auto;
+}
+A {
+    color: white;
+}
+
+A:visited {
+    color: white;
+}
+A:active {
+    color: white;
+}

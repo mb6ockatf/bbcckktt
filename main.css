@@ -1,0 +1,20 @@
+
+body {
+    background-color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: auto;
+    color: blueviolet;
+    /*font-family: 'JetBrains Mono NL'; */
+}
+.hidden {
+    color: black;
+    font-size: small;
+}
+.welcome {
+    font-size: 4vmax;
+}
+.menu {
+    color:darkolivegreen;
+    font-size: 3vmax;
+}
